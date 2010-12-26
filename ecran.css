@@ -1,0 +1,10 @@
+h2 {
+	text-align: center;
+	font-family: 'Essays 1743',Palatino,'Palatino Linotype','Book Antiqua',Georgia,'Times New Roman',serif
+}
+img {
+	display: block;
+	margin:0 auto 0 auto;
+	border: 5px solid black;
+	height: 500px;
+}
